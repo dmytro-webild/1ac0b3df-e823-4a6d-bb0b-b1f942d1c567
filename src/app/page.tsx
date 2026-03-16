@@ -106,7 +106,7 @@ export default function HomePage() {
           imageSrc="http://img.b2bpic.net/free-photo/top-view-dining-tables-without-food_23-2150157779.jpg"
           imageAlt="Elegant Sohana restaurant interior with warm lighting and fine dining setup"
           mediaAnimation="slide-up"
-          background="radial-gradient"
+          background={{ variant: "radial-gradient" }}
           useInvertedBackground={false}
           testimonials={[
             {
@@ -190,7 +190,7 @@ export default function HomePage() {
               descriptions: [
                 "Our culinary heritage spans generations. Each recipe is carefully preserved and executed with precision, honoring the traditions of South Asian cuisine while meeting the highest standards of French fine dining.",
               ],
-              imageSrc: "http://img.b2bpic.net/free-photo/close-up-variety-oriental-spices_23-2148294999.jpg?_wi=1",
+              imageSrc: "http://img.b2bpic.net/free-photo/close-up-variety-oriental-spices_23-2148294999.jpg",
             },
             {
               id: "fresh-ingredients",
@@ -198,7 +198,7 @@ export default function HomePage() {
               descriptions: [
                 "We source the finest spices, fresh produce, and premium proteins from trusted suppliers. Every ingredient is selected for quality, flavor, and sustainability, ensuring excellence in every dish.",
               ],
-              imageSrc: "http://img.b2bpic.net/free-photo/black-tomatoes-female-hands-closeup-cooking-kitchen_169016-39507.jpg?_wi=1",
+              imageSrc: "http://img.b2bpic.net/free-photo/black-tomatoes-female-hands-closeup-cooking-kitchen_169016-39507.jpg",
             },
             {
               id: "warm-hospitality",
@@ -206,7 +206,7 @@ export default function HomePage() {
               descriptions: [
                 "Hospitality is at the heart of South Asian culture. Our team treats every guest as family, ensuring your dining experience is comfortable, welcoming, and unforgettable from arrival to departure.",
               ],
-              imageSrc: "http://img.b2bpic.net/free-photo/person-paying-using-nfc-technology_23-2149893759.jpg?_wi=1",
+              imageSrc: "http://img.b2bpic.net/free-photo/person-paying-using-nfc-technology_23-2149893759.jpg",
             },
           ]}
         />
@@ -228,19 +228,19 @@ export default function HomePage() {
               id: "butter-chicken",
               name: "Butter Chicken Tandoori",
               price: "€28",
-              imageSrc: "http://img.b2bpic.net/free-photo/top-view-delicious-meat-slices-with-mushed-potatoes-seasonings-wooden-desk-meat-bread-meal-potato-food-dish_140725-96621.jpg?_wi=1",
+              imageSrc: "http://img.b2bpic.net/free-photo/top-view-delicious-meat-slices-with-mushed-potatoes-seasonings-wooden-desk-meat-bread-meal-potato-food-dish_140725-96621.jpg",
             },
             {
               id: "biryani-royal",
               name: "Royal Biryani",
               price: "€32",
-              imageSrc: "http://img.b2bpic.net/free-photo/top-view-grated-carrot-salad-with-garlic-walnuts-seasonings-dark-blue-rustic-desk-health-vegetable-diet-ripe-salad-color_140725-121253.jpg?_wi=1",
+              imageSrc: "http://img.b2bpic.net/free-photo/top-view-grated-carrot-salad-with-garlic-walnuts-seasonings-dark-blue-rustic-desk-health-vegetable-diet-ripe-salad-color_140725-121253.jpg",
             },
             {
               id: "tandoori-salmon",
               name: "Tandoori Salmon",
               price: "€35",
-              imageSrc: "http://img.b2bpic.net/free-photo/fresh-salmon-fillets-ice-with-rosemary-spices_84443-74003.jpg?_wi=1",
+              imageSrc: "http://img.b2bpic.net/free-photo/fresh-salmon-fillets-ice-with-rosemary-spices_84443-74003.jpg",
             },
           ]}
         />

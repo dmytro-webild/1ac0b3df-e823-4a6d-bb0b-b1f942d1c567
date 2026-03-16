@@ -128,7 +128,7 @@ export default function AboutPage() {
               descriptions: [
                 "Our culinary heritage spans generations. Each recipe is carefully preserved and executed with precision, honoring the traditions of South Asian cuisine while meeting the highest standards of French fine dining.",
               ],
-              imageSrc: "http://img.b2bpic.net/free-photo/close-up-variety-oriental-spices_23-2148294999.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/close-up-variety-oriental-spices_23-2148294999.jpg?_wi=2",
               imageAlt: "spices herbs traditional cooking ingredients",
             },
             {
@@ -137,7 +137,7 @@ export default function AboutPage() {
               descriptions: [
                 "We source the finest spices, fresh produce, and premium proteins from trusted suppliers. Every ingredient is selected for quality, flavor, and sustainability, ensuring excellence in every dish.",
               ],
-              imageSrc: "http://img.b2bpic.net/free-photo/black-tomatoes-female-hands-closeup-cooking-kitchen_169016-39507.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/black-tomatoes-female-hands-closeup-cooking-kitchen_169016-39507.jpg?_wi=2",
               imageAlt: "fresh organic vegetables ingredients market",
             },
             {
@@ -146,7 +146,7 @@ export default function AboutPage() {
               descriptions: [
                 "Hospitality is at the heart of South Asian culture. Our team treats every guest as family, ensuring your dining experience is comfortable, welcoming, and unforgettable from arrival to departure.",
               ],
-              imageSrc: "http://img.b2bpic.net/free-photo/person-paying-using-nfc-technology_23-2149893759.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/person-paying-using-nfc-technology_23-2149893759.jpg?_wi=2",
               imageAlt: "restaurant staff hospitality service welcoming",
             },
           ]}

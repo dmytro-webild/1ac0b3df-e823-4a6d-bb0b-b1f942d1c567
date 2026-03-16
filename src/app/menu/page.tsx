@@ -97,19 +97,19 @@ export default function MenuPage() {
               id: "butter-chicken",
               name: "Butter Chicken Tandoori",
               price: "€28",
-              imageSrc: "http://img.b2bpic.net/free-photo/top-view-delicious-meat-slices-with-mushed-potatoes-seasonings-wooden-desk-meat-bread-meal-potato-food-dish_140725-96621.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/top-view-delicious-meat-slices-with-mushed-potatoes-seasonings-wooden-desk-meat-bread-meal-potato-food-dish_140725-96621.jpg?_wi=2",
             },
             {
               id: "biryani-royal",
               name: "Royal Biryani",
               price: "€32",
-              imageSrc: "http://img.b2bpic.net/free-photo/top-view-grated-carrot-salad-with-garlic-walnuts-seasonings-dark-blue-rustic-desk-health-vegetable-diet-ripe-salad-color_140725-121253.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/top-view-grated-carrot-salad-with-garlic-walnuts-seasonings-dark-blue-rustic-desk-health-vegetable-diet-ripe-salad-color_140725-121253.jpg?_wi=2",
             },
             {
               id: "tandoori-salmon",
               name: "Tandoori Salmon",
               price: "€35",
-              imageSrc: "http://img.b2bpic.net/free-photo/fresh-salmon-fillets-ice-with-rosemary-spices_84443-74003.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/fresh-salmon-fillets-ice-with-rosemary-spices_84443-74003.jpg?_wi=2",
             },
           ]}
         />
